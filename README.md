@@ -23,7 +23,7 @@ When I'm not deep into data or research, you can usually find me:
 
 ---
 
-📫 **How to reach me:** [[(https://www.linkedin.com/in/bwong01/)]]
+📫 **How to reach me:** [https://www.linkedin.com/in/bwong01/]
 
 
 <!--
