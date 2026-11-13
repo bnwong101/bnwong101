@@ -11,7 +11,7 @@
 
 ### 🎮 Beyond the Research
 When I'm not analyzing data, you can usually find me:
-* Learning and strategizing in the **Riftbound Trading Card Game** 🎴
+* Learning and playing the **Riftbound Trading Card Game** 🎴
 * Playing the violin 🎻
 * On the badminton court 🏸
 * Gaming 🎮
