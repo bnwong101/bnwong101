@@ -1,4 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Brandon 👋
+
+📍 **Based in:** Toronto, Canada  
+🔬 **Education:** MSc. in Epidemiology and Biostatistics and a BSc. in Biological Sciences
+
+---
+
+### 🔭 Research Interests
+* **Environmental Health:** Investigating the impacts of climate change and environmental risk factors on human health.
+* **Chronic Disease:** Analyzing comorbidities and long-term health outcomes.
+
+### 🎮 Beyond the Code / Research
+When I'm not deep into data or research, you can usually find me:
+* Learning and strategizing in the **Riftbound Trading Card Game** 🎴
+* Playing the violin 🎻
+* On the badminton court 🏸
+* Gaming 🎮
+
+### 🛠️ Tech & Tools
+*(Feel free to add your preferred languages, software, or tools here—e.g., R, Python, SQL, GIS, etc.)*
+* **Analysis Tools:** R, SAS, Stata
+* **Still learning:** PowerBI
+
+
+---
+
+📫 **How to reach me:** [[Insert your LinkedIn, email, or website]](https://www.linkedin.com/in/bwong01/)
+
 
 <!--
 **bnwong101/bnwong101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
