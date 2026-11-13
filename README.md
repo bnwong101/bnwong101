@@ -17,7 +17,6 @@ When I'm not deep into data or research, you can usually find me:
 * Gaming 🎮
 
 ### 🛠️ Tech & Tools
-*(Feel free to add your preferred languages, software, or tools here—e.g., R, Python, SQL, GIS, etc.)*
 * **Analysis Tools:** R, SAS, Stata
 * **Still learning:** PowerBI
 
