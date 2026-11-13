@@ -9,8 +9,8 @@
 * **Environmental Health:** Investigating the impacts of climate change and environmental risk factors on human health.
 * **Chronic Disease:** Analyzing comorbidities and long-term health outcomes.
 
-### 🎮 Beyond the Code / Research
-When I'm not deep into data or research, you can usually find me:
+### 🎮 Beyond the Research
+When I'm not analyzing data, you can usually find me:
 * Learning and strategizing in the **Riftbound Trading Card Game** 🎴
 * Playing the violin 🎻
 * On the badminton court 🏸
