@@ -18,6 +18,7 @@ When I'm not analyzing data, you can usually find me:
 
 ### 🛠️ Tech & Tools
 * **Analysis Tools:** R, SAS, Stata
+* **Research & Productivity:** Zotero, Microsoft Office Suite (Word, PowerPoint, Excel, Outlook)
 * **Still learning:** PowerBI
 
 
